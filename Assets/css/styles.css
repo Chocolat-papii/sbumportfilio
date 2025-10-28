@@ -288,12 +288,13 @@
 
 .hero {
   height: 60vh;
+  align-items: center !important;
 }
 
 
 @media (max-width: 650px ) {
   .hero {
-    height: 100vh;
+    height: 90vh;
   }
 }
 
