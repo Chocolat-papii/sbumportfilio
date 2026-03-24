@@ -286,17 +286,6 @@
   .theme-future .hero-title { font-size: 3.75rem }
 }
 
-.hero {
-  height: 60vh;
-  align-items: center !important;
-}
-
-
-@media (max-width: 650px ) {
-  .hero {
-    height: 90vh;
-  }
-}
 
 .height-2 {
   height: 300px;
